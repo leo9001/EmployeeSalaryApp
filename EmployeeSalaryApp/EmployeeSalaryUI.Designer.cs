@@ -54,11 +54,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(70, 32);
+            this.label2.Location = new System.Drawing.Point(23, 35);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(22, 13);
+            this.label2.Size = new System.Drawing.Size(69, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Id :";
+            this.label2.Text = "Enter your id:";
             // 
             // label3
             // 
@@ -92,9 +92,9 @@
             // 
             // saveButton
             // 
-            this.saveButton.Location = new System.Drawing.Point(274, 84);
+            this.saveButton.Location = new System.Drawing.Point(230, 84);
             this.saveButton.Name = "saveButton";
-            this.saveButton.Size = new System.Drawing.Size(75, 23);
+            this.saveButton.Size = new System.Drawing.Size(119, 23);
             this.saveButton.TabIndex = 6;
             this.saveButton.Text = "Save";
             this.saveButton.UseVisualStyleBackColor = true;
@@ -102,9 +102,9 @@
             // 
             // showButton
             // 
-            this.showButton.Location = new System.Drawing.Point(274, 113);
+            this.showButton.Location = new System.Drawing.Point(230, 113);
             this.showButton.Name = "showButton";
-            this.showButton.Size = new System.Drawing.Size(75, 23);
+            this.showButton.Size = new System.Drawing.Size(119, 23);
             this.showButton.TabIndex = 7;
             this.showButton.Text = "Show";
             this.showButton.UseVisualStyleBackColor = true;
