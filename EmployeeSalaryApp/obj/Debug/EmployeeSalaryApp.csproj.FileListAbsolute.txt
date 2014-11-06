@@ -1,0 +1,21 @@
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.employeeSalaryUI.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+F:\C Sharp 50\Projects 2014\Projects 2014-10-14\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+F:\C Sharp 50\Projects 2014\Projects 2014-10-14\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+F:\C Sharp 50\Projects 2014\Projects 2014-10-14\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+D:\Projects\vs2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+D:\Projects\vs2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+D:\Projects\vs2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+D:\Projects\vs2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+D:\Projects\vs2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+D:\Projects\vs2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+D:\Projects\vs2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.employeeSalaryUI.resources
+D:\Projects\vs2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+D:\Projects\vs2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
