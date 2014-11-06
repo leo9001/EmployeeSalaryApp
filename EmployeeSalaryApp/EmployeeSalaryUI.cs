@@ -82,5 +82,10 @@ namespace EmployeeSalaryApp
             totalTextBox.Text = totalSalary.ToString();
         }
 
+        private double sum(double firstNumber, double secondNumber)
+        {
+            return firstNumber + secondNumber;
+        }
+
     }
 }
