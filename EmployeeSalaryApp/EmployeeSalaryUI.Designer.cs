@@ -63,11 +63,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(11, 61);
+            this.label3.Location = new System.Drawing.Point(50, 61);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(81, 13);
+            this.label3.Size = new System.Drawing.Size(42, 13);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Salary Amount :";
+            this.label3.Text = "Salary :";
             // 
             // nameTextBox
             // 
@@ -162,7 +162,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "employeeSalaryUI";
-            this.Text = "Employee Salary";
+            this.Text = "Employee Salary Test Branch";
             this.ResumeLayout(false);
             this.PerformLayout();
 
